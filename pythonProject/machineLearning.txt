@@ -1,0 +1,23 @@
+Machine Learning
+
+# Self Driving cars
+# Robotics
+# Lang processing
+# Vision processing
+# Forecasting Stock Market Trends
+
+==> Steps
+    # Import the data
+    # Clean the data
+    # Split the Data into Training/Test Sets
+    # Create a Model
+    # Train the Model
+    # Make Predictions
+    # Evaluate and Improve
+
+
+==> LIBRARIES FOR MACHINE LEARNING
+    # Numpy
+    # Pandas
+    # MatPlotLib
+    # Scikit-Learn
